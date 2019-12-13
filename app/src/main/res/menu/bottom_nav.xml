@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/Home"
+        android:title="Home"
+
+        />
+
+    <item
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:id="@+id/keranjang"
+        android:title="Keranjang"
+
+        />
+
+    <item
+        android:icon="@drawable/ic_email_black_24dp"
+        android:id="@+id/email"
+        android:title="Pesan"
+
+        />
+
+    <item
+        android:icon="@drawable/ic_library_books_black_24dp"
+        android:id="@+id/edukasi"
+        android:title="Edukasi"
+        />
+
+
+</menu>

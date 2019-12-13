@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "846003089341",
+    "firebase_url": "https://basah-13771.firebaseio.com",
+    "project_id": "basah-13771",
+    "storage_bucket": "basah-13771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846003089341:android:a412174089606355f82cd4",
+        "android_client_info": {
+          "package_name": "com.pikaboy.basah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846003089341-uat0c1i2ua1qst7gmfgu7ko7qk7em844.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pikaboy.basah",
+            "certificate_hash": "26e5c4e4be000acf68f1cb352bb08cf0a31d0d69"
+          }
+        },
+        {
+          "client_id": "846003089341-jk2ofben99qvc69eq4iiqe11vd4if4ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1SPwyhV5lIr_MZ9nS3Zst7pM5vY9cyv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846003089341-jk2ofben99qvc69eq4iiqe11vd4if4ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

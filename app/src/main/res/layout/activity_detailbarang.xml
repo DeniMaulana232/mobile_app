@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".lihatkategori.detailbarang">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imagegambar2"
+            android:layout_width="411dp"
+            android:layout_height="158dp"
+            android:foregroundGravity="center"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:id="@+id/judulberita"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Judulberita"
+            android:textColor="#000"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/namapenulis"
+            android:layout_width="89dp"
+            android:layout_height="15dp"
+            android:text="nama penulis berita"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/date"
+            android:layout_width="90dp"
+            android:layout_height="15dp"
+            android:gravity="center"
+            android:text="date"
+            android:textColor="#000"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/katagoribarang"
+            android:layout_width="65dp"
+            android:layout_height="13dp"
+            android:text="katagoriberita"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="10dp" />
+
+        <TextView
+            android:id="@+id/deskripsi"
+            android:layout_width="355dp"
+            android:layout_height="378dp"
+            android:text="TextView"
+            android:textColor="#000"
+            android:scrollbars="vertical" />
+
+        <EditText
+            android:id="@+id/pidbarang"
+            android:layout_width="215dp"
+            android:layout_height="37dp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Name"
+            android:textSize="10dp" />
+
+
+    </LinearLayout>
+</RelativeLayout>
